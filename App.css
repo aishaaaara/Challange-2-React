@@ -1,0 +1,31 @@
+.warna{
+  background-color: wheat;
+  border: 0px solid wheat;
+  text-align: center ;
+
+}
+.button{
+  width: 20%;
+	height: 40px;
+	background-color: #350d0d;
+  border: none;
+  color: wheat;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 40%;
+  border-radius: 5px;
+
+}
+.bg{
+  
+  margin-top: 100px;
+  background-position: 50%;
+
+}
+.form{
+  margin: auto ;
+	width: 400px;
+	margin-top: 20px;
+ 
+}
